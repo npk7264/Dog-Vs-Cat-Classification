@@ -1,6 +1,8 @@
 ﻿# Dog vs Cat Classification
 
-This is the instruction for my implementation. You can run my code through 2 options: Kaggle or Colab.
+This is the instruction for my implementation. You can run my code through 2 options: Kaggle or Colab4
+- Kaggle: If you want to run all the steps (preprocess data, train, and evaluate)
+- Google Colab: If you only want to evaluate the model on your dataset
 
 My model "dogvscat.h5" is shared on Google Drive: 'https://drive.google.com/file/d/1hNVqzvvxysg7o8NZK3wqv8UsFd5VtUAF/view?usp=sharing'
 
