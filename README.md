@@ -2,6 +2,8 @@
 
 This is the instruction for my implementation. You can run my code through 2 options: Kaggle or Colab.
 
+My model "dogvscat.h5" is shared on Google Drive: 'https://drive.google.com/file/d/1hNVqzvvxysg7o8NZK3wqv8UsFd5VtUAF/view?usp=sharing'
+
 ## Option 1: Kaggle
 - Access to my Kaggle notebook: https://www.kaggle.com/code/npk7264/dog-vs-cat-classification.
 - This notebook contains all the steps: preprocessing data, training, and evaluation
